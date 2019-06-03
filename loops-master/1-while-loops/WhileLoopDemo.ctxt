@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WhileLoopDemo
+comment0.text=\r\n\ This\ program\ demonstrates\ the\ while\ loop.\r\n\r\n\ @author\ Jon\ Cooper\r\n\ @version\ Nov.\ 2,\ 2011\r\n
+comment1.params=
+comment1.target=void\ oneToTen()
+comment2.params=
+comment2.target=void\ rocketLaunch()
+comment3.params=n
+comment3.target=void\ noHacking(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
